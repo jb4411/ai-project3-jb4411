@@ -1,0 +1,5 @@
+I took the input file and read in each line. From there I parsed through the array I had created to find which squares belong to which regions. Once I had a dictionary of regions, I created an array to hold each number in the puzzle. From there I could simply solve the puzzle using recursive depth first search.
+
+The process was primarily the same for the intelligent solver, with the addition of creating an array of squares, and a set of remaining possible values for each of those squares. Then I was able to simply sort the list by the size of the set of remaining possible values, and choose the next square from the beginning of the list.
+
+In general, the intelligence solver performed better, or much better than the brute force solver, especially as board sizes got larger. However, there were some edge cases (see the file "myr1.txt") where the brute force solver was actually faster than the intelligence solver, however those cases were few and far between, and the difference in speed was negligible.

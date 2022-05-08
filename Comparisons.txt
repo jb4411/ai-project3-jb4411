@@ -1,0 +1,41 @@
+File: re0.txt
+The Brute Force Solver took 0.0005053999999999892 seconds to run, and called its solve function 53 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.0002662999999999971 seconds to run, and called its solve function 17 times!
+
+
+File: re1.txt
+The Brute Force Solver took 0.009047799999999995 seconds to run, and called its solve function 679 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.0023655999999999955 seconds to run, and called its solve function 97 times!
+
+
+File: re10a.txt
+The Brute Force Solver took 0.0011326000000000114 seconds to run, and called its solve function 102 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.005586000000000008 seconds to run, and called its solve function 101 times!
+
+
+File: re10b.txt
+The Brute Force Solver took 0.024587599999999987 seconds to run, and called its solve function 1093 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.005690199999999979 seconds to run, and called its solve function 97 times!
+
+
+File: re18.txt
+The Brute Force Solver took 1044.9353114 seconds to run, and called its solve function 41901289 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 2.1828219999999874 seconds to run, and called its solve function 9568 times!
+
+
+File: test1.txt
+The Brute Force Solver took 0.0001335000000000086 seconds to run, and called its solve function 19 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.00017970000000000486 seconds to run, and called its solve function 9 times!
+
+
+File: test2.txt
+The Brute Force Solver took 0.04094439999999999 seconds to run, and called its solve function 2303 times!
+
+The Intelligent Solver using the minimum-remaining-values heuristic took 0.004392299999999988 seconds to run, and called its solve function 81 times!
+
